@@ -1,1 +1,1 @@
-puts "テスト"
+puts "not test"
